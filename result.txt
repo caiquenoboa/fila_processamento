@@ -1,0 +1,25 @@
+{
+    "id": "a064cbea-bf47-4964-be61-0fb0cd3a8dce",
+    "carrier": "fedex",
+    "shippings": [
+        {
+            "id": 282,
+            "tracking_code": "282923794840",
+            "shipping_id": null,
+            "complain": "stolen",
+            "custom": {
+                "complain_received": "Robo"
+            }
+        },
+        {
+            "id": 283,
+            "tracking_code": "282935839095",
+            "shipping_id": null,
+            "complain": "stolen",
+            "custom": {
+                "complain_received": "Robo"
+            }
+        }
+    ],
+    "custom": {}
+}
